@@ -38,7 +38,7 @@ void draw()
   cloud3(256, 105);
 
   fill(0, 0, 0, 10); //makes it fade out
-  rect(0, 0, 800, 800);
+  //rect(0, 0, 800, 800);
 
   benjaminFranklinAndKite(400, 540);
 
