@@ -38,7 +38,7 @@ strokeWeight(2);
   cloud2(470, 120);
   cloud3(256, 105);
 
-  fill(0,0,0,10); //makes it fade out
+  fill(0,0,0,1); //makes it fade out
   rect(0,0,800,800);
   
   benjaminFranklinAndKite(400, 540);
